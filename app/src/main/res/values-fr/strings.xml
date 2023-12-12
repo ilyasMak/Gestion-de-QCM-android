@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">QCM</string>
+    <string name="title_activity_profspace">Espace Professeur</string>
+    <string name="navigation_drawer_open">Ouvrir le menu de navigation</string>
+    <string name="navigation_drawer_close">Fermer le menu de navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="title_activity_studentspace">Espace Étudiant</string>
+
+    <string name="youare">Vous êtes</string>
+    <string name="stud">Étudiant</string>
+    <string name="prof">Professeur</string>
+
+    <string name="log">Connexion</string>
+    <string name="Username">Nom d\'utilisateur</string>
+    <string name="Password">Mot de passe</string>
+    <string name="notyetsign">Pas encore inscrit ? Inscrivez-vous maintenant</string>
+    <string name="gomain">Revenir à la page principale</string>
+    <string name="creatacc">Créer un compte</string>
+    <string name="specstud">Spécialité d\'études</string>
+    <string name="repPassword">Répéter le mot de passe</string>
+    <string name="signUp">S\'inscrire</string>
+    <string name="spec">Spécialité</string>
+    <string name="deleAcc">Supprimer le compte</string>
+    <string name="logout">Déconnexion</string>
+    <string name="creQCM">Créer un QCM</string>
+    <string name="title">Titre</string>
+    <string name="nqsts">Nombre de questions</string>
+    <string name="tqsts">Temps par question</string>
+    <string name="create">Créer</string>
+    <string name="wrqst">Écrire une question</string>
+    <string name="cA">Choix A</string>
+    <string name="cB">Choix B</string>
+    <string name="cC">Choix C</string>
+    <string name="cD">Choix D</string>
+    <string name="corr">Correction</string>
+    <string name="nxt">Suivant</string>
+    <string name="passcode">Veuillez entrer le code d\'accès du QCM</string>
+    <string name="MCQnotExist">Code d\'accès incorrect, le QCM n\'existe pas</string>
+    <string name="search">Rechercher</string>
+    <string name="Cancel">Annuler</string>
+    <string name="incorrect">Nom d\'utilisateur ou mot de passe incorrect</string>
+    <string name="verfpass">Vérifiez les mots de passe</string>
+
+    <string name="useother">Utiliser un autre nom d\'utilisateur ou mot de passer</string>
+    <string name="vide">Remplire tous les champs</string>
+</resources>

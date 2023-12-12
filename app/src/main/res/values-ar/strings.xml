@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">اختبار الاختيار</string>
+    <string name="title_activity_profspace">مساحة الأستاذ</string>
+    <string name="navigation_drawer_open">فتح قائمة التنقل</string>
+    <string name="navigation_drawer_close">إغلاق قائمة التنقل</string>
+    <string name="nav_header_title">استوديو أندرويد</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+    <string name="title_activity_studentspace">مساحة الطلاب</string>
+
+    <string name="youare">أنت</string>
+    <string name="stud">طالب</string>
+    <string name="prof">أستاذ</string>
+
+    <string name="log">تسجيل الدخول</string>
+    <string name="Username">اسم المستخدم</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="notyetsign">لم تقم بالتسجيل بعد؟ سجل الآن</string>
+    <string name="gomain">العودة إلى الصفحة الرئيسية</string>
+    <string name="creatacc">إنشاء حساب</string>
+    <string name="specstud">تخصص الدراسة</string>
+    <string name="repPassword">إعادة كلمة المرور</string>
+    <string name="signUp">التسجيل</string>
+    <string name="spec">التخصص</string>
+    <string name="deleAcc">حذف الحساب</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="creQCM">إنشاء اختبار الاختيار المتعدد</string>
+    <string name="title">العنوان</string>
+    <string name="nqsts">عدد الأسئلة</string>
+    <string name="tqsts">زمن السؤال الواحد</string>
+    <string name="create">إنشاء</string>
+    <string name="wrqst">كتابة السؤال</string>
+    <string name="cA">خيار أ</string>
+    <string name="cB">خيار ب</string>
+    <string name="cC">خيار ج</string>
+    <string name="cD">خيار د</string>
+    <string name="corr">التصحيح</string>
+    <string name="nxt">التالي</string>
+    <string name="passcode">الرجاء إدخال رمز الوصول للاختبار</string>
+    <string name="MCQnotExist">رمز الوصول غير صحيح، الاختبار غير موجود</string>
+    <string name="search">البحث</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="incorrect">اسم المستخدم أو كلمة المرور غير صحيحة</string>
+    <string name="verfpass">يرجى التحقق من كلمات المرور</string>
+    <string name="useother">يرجى استخدام اسم مستخدم آخر أو كلمة مرور أخرى</string>
+    <string name="vide">املأ جميع الحقول</string>
+
+</resources>
